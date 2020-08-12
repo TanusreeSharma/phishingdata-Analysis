@@ -1,0 +1,4 @@
+Spam Emotion Tally
+Counter({' free': 167, ' happy': 39, ' esteemed': 11, ' entitled': 8, ' lustful': 7, ' ecstatic': 7, ' bored': 4, ' alone': 4, ' angry': 3, ' lost': 2, ' independent': 1, ' adequate': 1, ' attached': 1, ' sad': 1, ' fearful': 1})
+Ham Emotion Tally
+Counter({' happy': 249, ' sad': 63, ' free': 61, ' attached': 39, ' fearful': 27, ' angry': 21, ' attracted': 18, ' bored': 18, ' alone': 18, ' lost': 11, ' apathetic': 10, ' loved': 10, ' fearless': 9, ' powerless': 8, ' independent': 7, ' surprise': 6, ' esteemed': 5, ' average': 5, ' lustful': 4, ' safe': 4, ' codependent': 4, ' ecstatic': 3, ' singled out': 3, ' cheated': 2, ' embarrassed': 2, ' adequate': 1, ' anxious': 1, ' focused': 1, ' hated': 1})

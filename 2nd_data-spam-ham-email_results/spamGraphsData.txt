@@ -1,0 +1,8 @@
+Compound Tallies
+[0, 28, 32, 29, 110, 25, 54, 94, 145, 230]
+Negative Tallies
+[0, 0, 0, 0, 0, 715, 32, 0, 0, 0]
+Neutral Tallies
+[0, 0, 0, 0, 0, 0, 6, 85, 375, 281]
+Positive Tallies
+[0, 0, 0, 0, 0, 369, 327, 48, 3, 0]

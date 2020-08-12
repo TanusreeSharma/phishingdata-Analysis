@@ -1,0 +1,2 @@
+Overall Polarity Scores
+compound: 0.581, neg: 0.022, neu: 0.878, pos: 0.099

@@ -1,0 +1,4 @@
+spam: compound: 0.436, neg: 0.039, neu: 0.762, pos: 0.199
+ham: compound: 0.152, neg: 0.058, neu: 0.799, pos: 0.143
+Overall Polarity Scores
+compound: 0.19, neg: 0.056, neu: 0.794, pos: 0.15

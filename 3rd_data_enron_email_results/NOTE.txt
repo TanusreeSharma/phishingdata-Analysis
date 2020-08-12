@@ -1,0 +1,5 @@
+The polarity results for the enron email dataset was too large to upload. The results can be manualed run by downloading the dataset from here: https://www.kaggle.com/wcukierski/enron-email-dataset
+
+Run this command:
+
+python3 enronPolarityScores.py <name of enron email dataset file> <name of file to output results to>

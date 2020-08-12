@@ -1,0 +1,2 @@
+Emotion Tally
+Counter({' attached': 11, ' fearless': 6, ' happy': 4, ' free': 2, ' attracted': 2, ' lost': 1})
