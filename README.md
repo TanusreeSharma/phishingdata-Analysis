@@ -1,6 +1,7 @@
 # phishingdata-Analysis
 
                                                           #Objective
+                                                          #Author: Tanusree Sharma
  phishing emails exploitation is associtaed with different human emotion which can be combined with current detection schemes that could lead to
  better detection. The goal of this experiment is to analyze the emotional content of a phishing email dataset to see: 
 
