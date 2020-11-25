@@ -30,6 +30,7 @@ polarityScoresbyDomain.py
 6.	Output results to csv file
 
 polarityScoresAll.py
+
 1.	Take in dataset and put information into data structure called rows
 2.	Go through each email entry and tokenize the email content using english.pickle tokenizer from nltk
 3.	Once results calculated for each row, print out the average sentiment values for each domain
